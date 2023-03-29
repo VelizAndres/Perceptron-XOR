@@ -1,0 +1,14 @@
+C:\Users\andre\OneDrive\Escritorio\2023_Universidad\Primer Ciclo 2023\Inteligencia_Artificial\Perceptron-XOR\Perceptron\bin\Debug\netcoreapp3.1\Perceptron.exe
+C:\Users\andre\OneDrive\Escritorio\2023_Universidad\Primer Ciclo 2023\Inteligencia_Artificial\Perceptron-XOR\Perceptron\bin\Debug\netcoreapp3.1\Perceptron.deps.json
+C:\Users\andre\OneDrive\Escritorio\2023_Universidad\Primer Ciclo 2023\Inteligencia_Artificial\Perceptron-XOR\Perceptron\bin\Debug\netcoreapp3.1\Perceptron.runtimeconfig.json
+C:\Users\andre\OneDrive\Escritorio\2023_Universidad\Primer Ciclo 2023\Inteligencia_Artificial\Perceptron-XOR\Perceptron\bin\Debug\netcoreapp3.1\Perceptron.runtimeconfig.dev.json
+C:\Users\andre\OneDrive\Escritorio\2023_Universidad\Primer Ciclo 2023\Inteligencia_Artificial\Perceptron-XOR\Perceptron\bin\Debug\netcoreapp3.1\Perceptron.dll
+C:\Users\andre\OneDrive\Escritorio\2023_Universidad\Primer Ciclo 2023\Inteligencia_Artificial\Perceptron-XOR\Perceptron\bin\Debug\netcoreapp3.1\Perceptron.pdb
+C:\Users\andre\OneDrive\Escritorio\2023_Universidad\Primer Ciclo 2023\Inteligencia_Artificial\Perceptron-XOR\Perceptron\obj\Debug\netcoreapp3.1\Perceptron.csproj.AssemblyReference.cache
+C:\Users\andre\OneDrive\Escritorio\2023_Universidad\Primer Ciclo 2023\Inteligencia_Artificial\Perceptron-XOR\Perceptron\obj\Debug\netcoreapp3.1\Perceptron.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\OneDrive\Escritorio\2023_Universidad\Primer Ciclo 2023\Inteligencia_Artificial\Perceptron-XOR\Perceptron\obj\Debug\netcoreapp3.1\Perceptron.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive\Escritorio\2023_Universidad\Primer Ciclo 2023\Inteligencia_Artificial\Perceptron-XOR\Perceptron\obj\Debug\netcoreapp3.1\Perceptron.AssemblyInfo.cs
+C:\Users\andre\OneDrive\Escritorio\2023_Universidad\Primer Ciclo 2023\Inteligencia_Artificial\Perceptron-XOR\Perceptron\obj\Debug\netcoreapp3.1\Perceptron.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Escritorio\2023_Universidad\Primer Ciclo 2023\Inteligencia_Artificial\Perceptron-XOR\Perceptron\obj\Debug\netcoreapp3.1\Perceptron.dll
+C:\Users\andre\OneDrive\Escritorio\2023_Universidad\Primer Ciclo 2023\Inteligencia_Artificial\Perceptron-XOR\Perceptron\obj\Debug\netcoreapp3.1\Perceptron.pdb
+C:\Users\andre\OneDrive\Escritorio\2023_Universidad\Primer Ciclo 2023\Inteligencia_Artificial\Perceptron-XOR\Perceptron\obj\Debug\netcoreapp3.1\Perceptron.genruntimeconfig.cache
